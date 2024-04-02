@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi👋 Welcome to the space of agaep3000!✨
+##Introduction
+- 🔭 I'm currently dreaming of becoming an embedded developer
+- 🌱 I’m currently learning embedded C programming and microcontroller architectures.
+- 📫 How to reach me: @choiayeong1229@gmail.com
 
+  
 <!--
 **ayeong3000/ayeong3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
